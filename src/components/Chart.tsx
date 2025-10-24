@@ -53,8 +53,8 @@ export function Chart(props: {
       {
         label: "攝氏溫度",
         data: [...yearMap.values()],
-        borderColor: "rgb(255, 99, 132)",
-        backgroundColor: "rgba(255, 99, 132, 0.5)",
+        borderColor: "rgb(99, 185, 255)",
+        backgroundColor: "rgb(99, 185, 255)",
       },
     ],
   };
